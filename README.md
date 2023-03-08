@@ -14,4 +14,7 @@ source qml/bin/activate
 pip3 install --upgrade pip
 pip3 install -r requirements.txt
 ```
+https://towardsdatascience.com/toward-a-quantum-transformer-a51566ed42c2
 
+Quantum Vision Transformers
+https://arxiv.org/abs/2209.08167
